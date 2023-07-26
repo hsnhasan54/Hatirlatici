@@ -1,0 +1,16 @@
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\bin\Debug\Hatırlatıcı.exe.config
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\bin\Debug\Hatırlatıcı.exe
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\bin\Debug\Hatırlatıcı.pdb
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.Form1.resources
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.Properties.Resources.resources
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.exe
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.pdb
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Interop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\obj\Debug\Hatırlatıcı.csproj.ResolveComReference.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\bin\Debug\Interop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Hatırlatıcı\Hatırlatıcı\bin\Debug\AxInterop.WMPLib.dll
